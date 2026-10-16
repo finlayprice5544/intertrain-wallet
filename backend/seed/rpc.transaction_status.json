@@ -1,0 +1,17 @@
+{
+  "_note": "Sample response for transaction_status RPC method. Status can be 'confirmed', 'pending', or 'not_found'.",
+  "status": "confirmed",
+  "transaction": {
+    "hash": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789",
+    "version": 1,
+    "chain_id": "worldstreet-devnet-1",
+    "nonce": 2,
+    "from": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+    "to": "wsk1rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrdemorecv",
+    "amount": "1000000",
+    "fee": "1",
+    "block_height": 184710,
+    "block_hash": "ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00ff00",
+    "memo": ""
+  }
+}

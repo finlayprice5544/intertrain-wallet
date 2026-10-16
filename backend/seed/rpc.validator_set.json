@@ -1,0 +1,30 @@
+{
+  "_note": "Sample response for validator_set RPC method.",
+  "validators": [
+    {
+      "address": "wsk1qxyz00000000000000000000000000000val01",
+      "voting_power": 1000000,
+      "moniker": "genesis-0",
+      "pubkey": "ed25519:aabbccdd00112233445566778899aabbccddeeff00112233445566778899aabb"
+    },
+    {
+      "address": "wsk1qxyz00000000000000000000000000000val02",
+      "voting_power": 1000000,
+      "moniker": "genesis-1",
+      "pubkey": "ed25519:11223344556677889900aabbccddeeff00112233445566778899aabbccddeeff"
+    },
+    {
+      "address": "wsk1qxyz00000000000000000000000000000val03",
+      "voting_power": 1000000,
+      "moniker": "genesis-2",
+      "pubkey": "ed25519:22334455667788990011aabbccddeeff22334455667788990011aabbccddeeff"
+    },
+    {
+      "address": "wsk1qxyz00000000000000000000000000000val04",
+      "voting_power": 1000000,
+      "moniker": "genesis-3",
+      "pubkey": "ed25519:33445566778899001122aabbccddeeff33445566778899001122aabbccddeeff"
+    }
+  ],
+  "total_voting_power": 4000000
+}

@@ -1,0 +1,13 @@
+{
+  "_note": "Sample response for mna_swap_status RPC method.",
+  "status": "confirmed",
+  "operation": {
+    "operation_id": "dd00000000000000000000000000000000000000000000000000000000000004",
+    "kind": "MintMna",
+    "from": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+    "collateral_asset": "worldstreet:bridge:ethereum-sepolia:wUSDC",
+    "amount_usdc": "10000000",
+    "amount_mna": "10000000",
+    "block_height": 184718
+  }
+}

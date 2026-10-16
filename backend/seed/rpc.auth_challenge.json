@@ -1,0 +1,5 @@
+{
+  "_note": "Sample response for auth_challenge RPC method. The message is bound to the domain and contains a random nonce.",
+  "message": "Sign this message to prove you control this Intertrain address.\n\nDomain: localhost\nAddress: wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct\nNonce: a1b2c3d4e5f6\nTimestamp: 2026-10-16T10:00:00Z",
+  "nonce": "a1b2c3d4e5f6"
+}

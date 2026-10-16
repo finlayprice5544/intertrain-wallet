@@ -1,0 +1,27 @@
+{
+  "_note": "Sample response for token_list RPC method. Lists native tokens created on chain.",
+  "tokens": [
+    {
+      "token_id": "aa00000000000000000000000000000000000000000000000000000000000001",
+      "name": "Demo Stablecoin",
+      "symbol": "DST",
+      "display_name": "Demo Stablecoin",
+      "decimals": 6,
+      "max_supply": "1000000000000",
+      "total_supply": "100000000000",
+      "mint_authority": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+      "enabled": true
+    },
+    {
+      "token_id": "bb00000000000000000000000000000000000000000000000000000000000002",
+      "name": "Governance Token",
+      "symbol": "GOV",
+      "display_name": "Governance Token",
+      "decimals": 8,
+      "max_supply": null,
+      "total_supply": "500000000000000",
+      "mint_authority": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "mint": "So11111111111111111111111111111111111111112",
+    "name": "Example Coin",
+    "symbol": "EXMPL",
+    "image": "/tokens/example.png",
+    "priceUsd": 0,
+    "marketCap": 0,
+    "_note": "Rename to coins.json and fill from captured /api/coins responses. One file = one collection, keyed in RocksDB as seed:<filename>."
+  }
+]

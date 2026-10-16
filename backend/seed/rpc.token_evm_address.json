@@ -1,0 +1,8 @@
+{
+  "_note": "Sample response for token_evm_address RPC method. Derives deterministic EVM address from token_id.",
+  "token_id": "aa00000000000000000000000000000000000000000000000000000000000001",
+  "evm_address": "0x00000000000000000000000000000000000010A1",
+  "symbol": "DST",
+  "decimals": 6,
+  "image": "https://intertrain.online/icon-256.png"
+}

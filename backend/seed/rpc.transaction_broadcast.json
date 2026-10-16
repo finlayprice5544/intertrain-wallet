@@ -1,0 +1,4 @@
+{
+  "_note": "Sample response for transaction_broadcast RPC method. Returns the assigned tx hash.",
+  "hash": "abcdef0123456789abcdef0123456789abcdef0123456789abcdef0123456789"
+}

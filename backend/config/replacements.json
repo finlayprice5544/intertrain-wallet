@@ -1,0 +1,20 @@
+{
+  "_note": "Map each ORIGINAL value found in the cloned frontend to a branding key. `cargo run --bin rebrand` replaces the left side with the configured value of the right side across ../frontend/.",
+  "source": "wallets.intertrain.online",
+  "map": {
+    "Intertrain": "siteName",
+    "intertrain": "siteName_lower",
+    "WSK": "ticker",
+    "https://wallets.intertrain.online": "urls.wallets",
+    "https://explorer.intertrain.online": "urls.explorer",
+    "https://rpc-worldstreet.intertrain.online/rpc": "urls.rpc_worldstreet",
+    "https://rpc-worldstreet.intertrain.online/healthz": "urls.rpc_worldstreet_healthz",
+    "https://rpc-worldstreet.intertrain.online/metrics": "urls.rpc_worldstreet_metrics",
+    "https://rpc.intertrain.online/rpc": "urls.rpc_mainnet",
+    "https://rpc-testnet.intertrain.online/rpc": "urls.rpc_testnet",
+    "intertrain.online": "domain",
+    "wallets.intertrain.online": "domain_wallets",
+    "chain 4683": "chainRef",
+    "worldstreet": "networkName"
+  }
+}

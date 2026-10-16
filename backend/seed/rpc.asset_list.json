@@ -1,0 +1,50 @@
+{
+  "_note": "Sample response for asset_list RPC method. Lists all protocol assets including native, bridge lanes, and native tokens.",
+  "assets": [
+    {
+      "id": "worldstreet:MNA:native",
+      "symbol": "WSK",
+      "name": "WorldStreet Kash",
+      "display_name": "WorldStreet Kash",
+      "decimals": 6,
+      "enabled": true,
+      "token_id": null
+    },
+    {
+      "id": "worldstreet:bridge:ethereum-sepolia:wUSDC",
+      "symbol": "USDC",
+      "name": "Wrapped USDC (Sepolia)",
+      "display_name": "wUSDC (Ethereum Sepolia)",
+      "decimals": 6,
+      "enabled": true,
+      "token_id": null
+    },
+    {
+      "id": "worldstreet:bridge:solana-devnet:wSOL",
+      "symbol": "wSOL",
+      "name": "Wrapped SOL",
+      "display_name": "wSOL (Solana devnet)",
+      "decimals": 9,
+      "enabled": true,
+      "token_id": null
+    },
+    {
+      "id": "worldstreet:bridge:solana-devnet:USDC",
+      "symbol": "USDC",
+      "name": "Wrapped USDC (Solana)",
+      "display_name": "wUSDC (Solana devnet)",
+      "decimals": 6,
+      "enabled": true,
+      "token_id": null
+    },
+    {
+      "id": "worldstreet:bridge:arbitrum:wUSDC",
+      "symbol": "USDC",
+      "name": "Wrapped USDC (Arbitrum)",
+      "display_name": "wUSDC (Arbitrum One)",
+      "decimals": 6,
+      "enabled": false,
+      "token_id": null
+    }
+  ]
+}

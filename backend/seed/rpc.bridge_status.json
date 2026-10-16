@@ -1,0 +1,15 @@
+{
+  "_note": "Sample response for bridge_status RPC method.",
+  "ethereum": {
+    "network": "Sepolia",
+    "connected": true,
+    "contract": "0xab4056bCb0369897d6D5Ca1A13f670f76C75ef3e",
+    "confirmations_required": 12
+  },
+  "solana": {
+    "network": "devnet",
+    "mode": "program",
+    "connected": true,
+    "program": "FyAuUc2pPkz1nt2vR27R6NfE3Lgb4Z69sjUoPSeU7PCw"
+  }
+}

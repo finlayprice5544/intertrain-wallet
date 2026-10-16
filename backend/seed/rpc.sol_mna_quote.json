@@ -1,0 +1,7 @@
+{
+  "_note": "Sample response for sol_mna_quote RPC method. Oracle quote for SOL to WSK.",
+  "amount_mna": "25000000",
+  "fee_bps": 50,
+  "sol_price_usd": "25.00",
+  "amount_lamports": "100000000"
+}

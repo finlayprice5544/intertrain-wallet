@@ -1,0 +1,4 @@
+{
+  "_note": "Sample response for mna_swap_prepare RPC method.",
+  "signing_bytes": "aabbccdd00112233445566778899aabbccddeeff00112233445566778899aabb"
+}

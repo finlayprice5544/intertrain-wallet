@@ -1,0 +1,35 @@
+{
+  "_note": "Placeholder branding for the wallet clone. Edit this file OR set the matching env vars (env wins). `cargo run --bin rebrand` pushes these values into the cloned frontend in ../frontend/.",
+  "siteName": "My Wallet",
+  "siteName_lower": "my wallet",
+  "ticker": "TICKER",
+  "contractAddress": "",
+  "socials": {
+    "twitter": "https://x.com/yourhandle",
+    "github": "https://github.com/youruser/yourrepo",
+    "discord": "https://discord.gg/yourinvite",
+    "telegram": "https://t.me/yourchannel",
+    "website": "https://yoursite.example"
+  },
+  "theme": {
+    "primaryColor": "#6366f1",
+    "accentColor": "#8b5cf6",
+    "backgroundColor": "#0f172a",
+    "surfaceColor": "#1e293b",
+    "textColor": "#f8fafc",
+    "textMuted": "#94a3b8"
+  },
+  "urls": {
+    "wallets": "",
+    "explorer": "",
+    "rpc_worldstreet": "",
+    "rpc_worldstreet_healthz": "",
+    "rpc_worldstreet_metrics": "",
+    "rpc_mainnet": "",
+    "rpc_testnet": ""
+  },
+  "domain": "yoursite.example",
+  "domain_wallets": "wallets.yoursite.example",
+  "chainRef": "chain 0000",
+  "networkName": "mychain"
+}

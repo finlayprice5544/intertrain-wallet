@@ -1,0 +1,4 @@
+{
+  "_note": "Sample response for auth_verify RPC method.",
+  "session_token": "eyJhbGciOiJFZDI1NTE5IiwidHlwIjoiSldUIn0.eyJhZGRyZXNzIjoid3NrMXFxcXEiLCJkb21haW4iOiJsb2NhbGhvc3QiLCJleHAiOjE3MjkxNjAwMDB9.PLACEHOLDER_SIGNATURE"
+}

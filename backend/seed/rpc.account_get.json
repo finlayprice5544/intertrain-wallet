@@ -1,0 +1,11 @@
+{
+  "_note": "Sample response for account_get RPC method. 'balance' is in microWSK. 'assets' maps asset-id to raw balance string.",
+  "address": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+  "balance": "50000000",
+  "nonce": 3,
+  "assets": {
+    "worldstreet:MNA:native": "50000000",
+    "worldstreet:bridge:ethereum-sepolia:wUSDC": "10000000",
+    "worldstreet:bridge:solana-devnet:wSOL": "500000000"
+  }
+}

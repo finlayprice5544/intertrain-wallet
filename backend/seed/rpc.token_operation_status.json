@@ -1,0 +1,15 @@
+{
+  "_note": "Sample response for token_operation_status RPC method.",
+  "status": "confirmed",
+  "operation": {
+    "operation_id": "cc00000000000000000000000000000000000000000000000000000000000003",
+    "kind": "Create",
+    "token_id": "aa00000000000000000000000000000000000000000000000000000000000001",
+    "from": "wsk1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdemoacct",
+    "block_height": 184715,
+    "name": "Demo Stablecoin",
+    "symbol": "DST",
+    "decimals": 6,
+    "amount": "100000000000"
+  }
+}

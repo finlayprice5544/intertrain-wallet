@@ -1,0 +1,17 @@
+{
+  "_note": "Sample response for chain_info RPC method. Returned inside { jsonrpc: '2.0', id: 1, result: <this> }.",
+  "chain_id": "worldstreet-devnet-1",
+  "block_height": 184720,
+  "block_hash": "a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4e5f6a1b2",
+  "genesis_time": "2026-07-15T00:00:00Z",
+  "consensus": "ed25519-quorum",
+  "version": "0.8.1",
+  "native_asset": {
+    "name": "WorldStreet Kash",
+    "symbol": "WSK",
+    "decimals": 6,
+    "base": "microWSK"
+  },
+  "evm_chain_id": 4685,
+  "latest_block_time": "2026-10-16T09:50:00Z"
+}

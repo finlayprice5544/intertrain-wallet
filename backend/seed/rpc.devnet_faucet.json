@@ -1,0 +1,5 @@
+{
+  "_note": "Sample response for devnet_faucet RPC method. Credits 100 WSK (100000000 microWSK).",
+  "hash": "faucet0123456789abcdef0123456789abcdef0123456789abcdef0123456789",
+  "amount": "100000000"
+}

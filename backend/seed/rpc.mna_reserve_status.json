@@ -1,0 +1,7 @@
+{
+  "_note": "Sample response for mna_reserve_status RPC method.",
+  "rate": "1 USDC = 1 WSK",
+  "collateralized": true,
+  "total_usdc_locked": "0",
+  "total_mna_minted": "0"
+}
